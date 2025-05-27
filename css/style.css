@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+}
+.title {
+    color: #ffffff;
+    text-align: center;
+}
+.text {
+    color: #ffffff;
+    text-align: center;
+}
+.final {
+    color: #ffffff;
+    text-align: center;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
