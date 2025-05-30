@@ -23,6 +23,15 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-table {
+table, th, td {
     color: #ffffff;
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+}
+th, td {
+	padding: 3px 10px;
+}
+th {
+	background-color: #ffffff;
+	color: #121212;
 }
