@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oleo+Script:wght@400;700&display=swap');
+
 body {
     background-color: #121212;
 }
 .title {
     color: #ffffff;
     text-align: center;
+    font-family: "Oleo Script", system-ui;
+    font-style: normal;system-ui;
+    font-size: 49px;
 }
 .segtitle {
 	color: #ffffff;
@@ -18,6 +23,7 @@ body {
 .final {
     color: #ffffff;
     text-align: center;
+    font-size: 10px;
 }
 a {
     color: #ffffff;
