@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oleo+Script:wght@400;700&display=swap');
 
-html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-}
 body {
     background: #486860;
     display: flex;
@@ -15,6 +10,7 @@ body {
 .icon-djairvinicius {
     border-radius: 20000px;
     width: 120px;
+    height: auto; /* Mantém a proporção */
 }
 .top {
     text-align: center;
@@ -29,7 +25,7 @@ body {
 .text {
     text-align: center;
     color: #161616;
-    font-size: 20px;
+    font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
 }
 a {
@@ -43,7 +39,7 @@ a {
     font-size: 15px;        /* ajuste conforme necessário */
     font-family: Arial, Helvetica, sans-serif;
 }
-.site {
+.service {
     width: 130px;                /* largura da div */
     height: 40px;                /* altura da div */
     margin: 15px auto;           /* centraliza a div horizontalmente dentro do elemento pai */
@@ -51,8 +47,9 @@ a {
     color: #ffffff;            /* cor da fonte na div */
     border-radius: 20px;         /* arrendodamento da borda da div */
 }
-.site2 {
-    width: 20x;                /* ajuste para alinhar melhor com o texto */
+.service2 {
+    width: 24px;
+    height: auto;
     margin: 0px 5px 0px  0px;
 }
 .threads {
