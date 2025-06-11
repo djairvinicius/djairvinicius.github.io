@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oleo+Script:wght@400;700&display=swap');
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #486860;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon-djairvinicius {
+    border-radius: 20000px;
+    width: 120px;
+}
+.top {
+    text-align: center;
+    color: #161616;
+    margin: 20px 0px 0px 0px;
+}
+.title {
+    font-size: 48px;
+    font-family: "Oleo Script", system-ui;
+    font-style: normal;system-ui;
+}
+.text {
+    text-align: center;
+    color: #161616;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    display: flex;
+    align-items: center;    /* centraliza verticalmente */
+    justify-content: center;
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+    font-size: 15px;        /* ajuste conforme necessário */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.site {
+    width: 130px;                /* largura da div */
+    height: 40px;                /* altura da div */
+    margin: 15px auto;           /* centraliza a div horizontalmente dentro do elemento pai */
+    background-color: #161616; /* cor de fundo da div */
+    color: #ffffff;            /* cor da fonte na div */
+    border-radius: 20px;         /* arrendodamento da borda da div */
+}
+.site2 {
+    width: 20x;                /* ajuste para alinhar melhor com o texto */
+    margin: 0px 5px 0px  0px;
+}
+.threads {
+    width: 130px;                /* largura da div */
+    height: 40px;                /* altura da div */
+    margin: 15px auto;           /* centraliza a div horizontalmente dentro do elemento pai */
+    background-color: #161616; /* cor de fundo da div */
+    color: #ffffff;            /* cor da fonte na div */
+    border-radius: 20px;         /* arrendodamento da borda da div */
+    display: flex;               /* Ativa o Flexbox para centralizar o conteúdo vertical e horizontalmente */
+    align-items: center;         /* centraliza verticalmente */
+    justify-content: center;     /* centraliza horizontalmente (opcional) */
+}
+.threads2 {
+    width: 20px;
+    margin: 0px 5px 0px  0px;
+}
+.github {
+    width: 130px;                /* largura da div */
+    height: 40px;                /* altura da div */
+    margin: auto;                /* centraliza a div horizontalmente dentro do elemento pai */
+    background-color: #161616; /* cor de fundo da div */
+    color: #ffffff;            /* cor da fonte na div */
+    border-radius: 20px;         /* arrendodamento da borda da div */
+    display: flex;               /* Ativa o Flexbox para centralizar o conteúdo vertical e horizontalmente */
+    align-items: center;         /* centraliza verticalmente */
+    justify-content: center;     /* centraliza horizontalmente (opcional) */
+}
+.github2 {
+    width: 20px;
+    margin: 0px 5px 0px 0px;
+}
+.rodape {
+    margin: 40px;
+}
+.rodape2 {
+    font-size: 12px;
+    color:#161616;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: #ffffff;            /* mesma cor do link normal */
+}
