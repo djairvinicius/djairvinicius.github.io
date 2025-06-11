@@ -6,8 +6,8 @@ body {
     flex-direction: column;  /* coloca os conteúdos em uma coluna */
     justify-content: center; /* alinha todo vertical */
    /* align-items: center;      alinha todo na horizontal */
-   margin-left: 40px;
-   margin-right: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 .title {
     font-size: 48px;
